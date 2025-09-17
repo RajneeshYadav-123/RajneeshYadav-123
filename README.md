@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Rajneesh Yadav  
 
-<!--
-**RajneeshYadav-123/RajneeshYadav-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**  
+- 🎓 B.Tech in Electronics & Communication Engineering (4th Semester)  
+- 💡 Interested in IoT, AI, Robotics & Full-Stack Development  
+- 🔭 Currently working on smart IoT & automation projects  
+- 🌱 Learning Advanced DSA, MERN stack, and Embedded Systems  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me**  
+- GitHub: [rajneeshyadav](https://github.com/RajneeshYadav-123)  
+ 
+⚡ **Tech Stack**  
+`C` `C++` `Python` `JavaScript` `React` `Node.js` `MongoDB` `Arduino` `IoT`  

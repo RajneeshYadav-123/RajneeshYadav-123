@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Rajneesh Yadav  
 
 🚀 **About Me**  
-- 🎓 B.Tech in Electronics & Communication Engineering (6th Semester)  
-- 💡 Interested in IoT, AI, Robotics & Full-Stack Development  
-- 🔭 Currently working on smart IoT & automation projects  
+- 🎓 B.Tech in Electronics & Communication Engineering (7th Semester)  
+- 💡 Interested in IoT, AI, Full-Stack Development, DSA, GenAI 
 - 🌱 Learning Advanced DSA, MERN stack, and Embedded Systems  
 
 📫 **Connect with me**  

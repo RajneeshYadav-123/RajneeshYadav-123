@@ -79,20 +79,6 @@ LangChain • LangGraph • RAG • LLMs • Agentic AI • Groq
 - 👨‍💻 Technical Head – ECE Society, MMMUT.
 - 🤝 Treasurer – Drone & IoT Club, MMMUT.
 
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajneeshYadav-123&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajneeshYadav-123&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajneeshYadav-123&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
